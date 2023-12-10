@@ -1,3 +1,12 @@
+# Table of Contents
+
+- [Buecher API Class](#buecher-api-class)
+  - [Usage](#usage)
+  - [Accessing Specific Details](#accessing-specific-details)
+  - [Class Methods](#class-methods)
+  - [Class Attributes](#class-attributes)
+  - [Example](#example)
+
 ---
 
 # Buecher API Class
